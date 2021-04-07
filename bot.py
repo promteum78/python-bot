@@ -11,3 +11,4 @@ async def on_ready():
 @client.command()
 async def hello(ctx):
 	await ctx.send("hi")
+client.run('your token')
