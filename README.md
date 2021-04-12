@@ -1,5 +1,5 @@
 # How does it works?
-Well,first things first you will have to install python an Visual Studio Code.
+Well,first things first you will have to install python and Visual Studio Code.
 When you installed both of them, enter command prompt, and cd your file, the you put the command: pip install discord
 
 # How do you run the bot?
